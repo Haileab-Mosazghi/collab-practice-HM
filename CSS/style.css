@@ -1,0 +1,24 @@
+nav {
+    background-color: blue;
+}
+
+.left {
+    background-color: orange;
+
+}
+
+.right {
+    background-color: purple;
+}
+
+footer {
+    background-color: maroon;
+}
+
+.container {
+    width: 49.5%;
+    display: inline-block;
+    flex-direction: column;
+    
+}
+    
