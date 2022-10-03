@@ -15,10 +15,5 @@ footer {
     background-color: maroon;
 }
 
-.container {
-    width: 49.5%;
-    display: inline-block;
-    flex-direction: column;
-    
-}
+
     
